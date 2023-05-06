@@ -1,0 +1,5 @@
+msgid "plugins.blocks.orkgBlock.title"
+msgstr "ORKG "
+
+msgid "plugins.blocks.orkgBlock.desc"
+msgstr "ORKG  Description"
