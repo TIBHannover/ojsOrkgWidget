@@ -2,5 +2,5 @@ msgid "plugins.blocks.orkgBlock.title"
 msgstr "ORKG "
 
 msgid "plugins.blocks.orkgBlock.desc"
-msgstr "ORKG  Description"
+msgstr "This plugin provides a sidebar block to display links to research papers on the ORKG website based on the value of DOI. If the paper exists on ORKG, the widget displays a link to its ORKG page, and if it doesn't exist, it will display a shortcut link to 'Add paper to ORKG'. By integrating the ORKG Widget into your OJS installation, you can easily link to your articles on the ORKG platform."
 
