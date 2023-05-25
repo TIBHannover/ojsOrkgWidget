@@ -7,11 +7,11 @@
 
 ## Installation
 - cd $OJS/plugins/blocks
-- git clone https://github.com/withanage/orkgWidget/
+- git clone https://github.com/TIBHannover/ojsOrkgWidget
 
 ## Configuration in Journal
--  Enable the plguin in Website -> plugins -> Blocks -> ORKG 
--  Enable the position of the widget in  Website -> Appearance -> Setup -> Sidebar 
+-  Enable the plguin in Website -> plugins -> Blocks -> ORKG
+-  Enable the position of the widget in  Website -> Appearance -> Setup -> Sidebar
 
 
 ## Demo
